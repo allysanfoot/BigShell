@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+PS1='\n\u@\H \w\n\$' ./release/bigshell
